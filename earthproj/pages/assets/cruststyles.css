@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+header{
+	color: #FFFFFF;
+}
+
+body{
+	background-image: url("../../img/blackbkg.jpg");
+	color: #FFFFFF;
+	
+}
+
+h1 {
+	font-family: filmotype-maxwell,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 50px;
+}
+
+h3 {
+	font-size: 28px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #929292;
+    font-size: 25px;
+}
